@@ -1,6 +1,6 @@
-import AbstractMonsterFactory from './monsterGenerator/abstractMonsterFactory/AbstractMonsterFactory';
-import { FireMonsterFactory, AquaMonsterFactory, SandMonsterFactory} from "./monsterGenerator/factories";
-import { Monster } from "./monsterGenerator/monster";
+import AbstractMonsterFactory from './lib/abstractMonsterFactory/AbstractMonsterFactory';
+import { FireMonsterFactory, AquaMonsterFactory, SandMonsterFactory} from "./lib/factories";
+import { Monster } from "./lib/monster";
 
 export default function main() {
     const monsterPerScreen = 1;
