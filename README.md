@@ -11,4 +11,8 @@ A continuacion mostraremos cada uno de los patrones pedidos
 
 ### Command
 
+
+
+
+
 ### Strategy
